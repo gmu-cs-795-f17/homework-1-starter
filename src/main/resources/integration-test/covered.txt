@@ -1,0 +1,4 @@
+edu.gmu.cs795.hw1.test.SimpleUsageIT	testSomeTest	edu.gmu.cs795.hw1.test.testedclasses.SampleClass	5
+edu.gmu.cs795.hw1.test.SimpleUsageIT	testSomeTest	edu.gmu.cs795.hw1.test.testedclasses.SampleClass	7
+edu.gmu.cs795.hw1.test.SimpleUsageIT	testSomeTest	edu.gmu.cs795.hw1.test.testedclasses.SampleClass	10
+edu.gmu.cs795.hw1.test.SimpleUsageIT	testSomeTest	edu.gmu.cs795.hw1.test.testedclasses.SampleClass	11
